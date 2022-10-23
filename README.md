@@ -1,3 +1,7 @@
-# Counter User
+# Counter
 
-Project in Clarity. [Origin](https://book.clarity-lang.org/ch07-01-creating-a-new-project.html).
+A counter that increments when the user interacts with the contract while getting the value from it.
+
+## Code
+
+![Code](https://i.imgur.com/AP7m7jj.png)
